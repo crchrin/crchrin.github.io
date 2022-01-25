@@ -20,12 +20,12 @@ function draw() {
   strokeWeight(8);
   line(0,(h*25),600,(h*25));
   stroke("white");
-  strokeWeight(1);
+  strokeWeight(2);
   line(0,0,10,0);
-  line(0,300,20,300);
-  line(0,150,20,150);
-  line(0,450,20,450);
-  line(0,600,20,600);
+  line(0,300,40,300);
+  line(0,150,40,150);
+  line(0,450,40,450);
+  line(0,600,40,600);
   line(0,75,10,75);
   line(0,225,10,225);
   line(0,375,10,375);
