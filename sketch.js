@@ -19,7 +19,7 @@ function draw() {
   strokeWeight(4);
   line(0,(h*25),600,(h*25));
   stroke(136, 14, 79);
-  strokeWeight(4);
+  strokeWeight(2);
   line(0,0,40,0);
   line(0,75,20,75);
   line(0,150,40,150);
